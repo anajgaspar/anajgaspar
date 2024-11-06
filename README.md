@@ -4,9 +4,12 @@
 
 ------------------------------------------------------------------
 
-<div align=center>  
-  <img width="455px" height="195px" src="https://github-readme-stats.vercel.app/api?username=anajgaspar&show_icons=true&count_private=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="snowinterw github stats"/> <br>
-  <img width="350px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anajgaspar&layout=compact&title_color=ff91a4&text_color=c9d1d9&bg_color=0d1117"/>
+<div align=center>
+    
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anajgaspar&hide=prs,issues&show_icons=true&theme=dracula&bg_color=00000000&title_color=FF91A4)
+  <br>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anajgaspar&layout=compact&theme=dracula&bg_color=00000000&title_color=FF91A4)
+  
 </div>
 
 ------------------------------------------------------------------
